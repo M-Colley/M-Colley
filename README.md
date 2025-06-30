@@ -9,6 +9,4 @@
 <p>To know more about my work, have a look at my <a href="https://m-colley.github.io/">website</a>.</p>
 </div>
 
-<a href="https://github.com/sponsors/M-Colley/button" target="_blank">
-  <img src="https://img.shields.io/badge/Sponsor-M-Colley-orange" alt="Sponsor @M-Colley" />
-</a>
+[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/M-Colley)
